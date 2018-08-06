@@ -11,3 +11,7 @@ Runs the script `mazy.py` which, using [Recursive Backtracking](https://en.wikip
 
 ### Button hold (> 2 sec)
 Shuts down the Raspberry Pi
+
+## Circuit
+
+![Circuit](circuit.png)
